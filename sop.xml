@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sop>
+    <intro>
+           
+    </intro>
+    <sessions>
+        <session>
+            <url>summer.html</url>
+            <sessiontitle>Summer sessions at Virginia Tech</sessiontitle>
+            <welcome>This is Summer!</welcome>
+            <tasks> 
+                <task>
+                    <tasktitle></tasktitle>
+                    <staging></staging>
+                    <ingredients>
+                        <ingredient>
+                            <items>A computer</items>
+                        </ingredient>
+                        <ingredient>
+                            <items>A phone</items>
+                        </ingredient>
+                    </ingredients>
+                    <steps>
+                        
+                    </steps>
+                    <summary></summary>
+                    
+                    
+                </task>
+            
+        </tasks>
+            
+        </session>
+            <session>
+                <url>winter.html</url>
+                <sessiontitle>Winter sessions at Virginia Tech</sessiontitle>
+                <welcome>This is Winter!</welcome>
+                <tasks> 
+                    <task>
+                        <tasktitle></tasktitle>
+                        <staging></staging>
+                        <ingredients>
+                            <ingredient>
+                                <items>A computer</items>
+                            </ingredient>
+                            <ingredient>
+                                <items>A phone</items>
+                            </ingredient>
+                        </ingredients>
+                        <steps>
+                            
+                        </steps>
+                        <summary></summary>
+                        
+                        
+                    </task>
+                    
+                </tasks>
+    
+            </session>
+    </sessions>
+</sop>
